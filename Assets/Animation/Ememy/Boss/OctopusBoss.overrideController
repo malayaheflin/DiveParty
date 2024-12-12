@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OctopusBoss
+  m_Controller: {fileID: 9100000, guid: 608bc599ea9238a4cbd35e14ff6e80cb, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f335469bce3794a47b24b5f4c8d5202d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 39252bd383618c647a02dad56a284ef4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b0e8e726b80bed847b71f07a9c62e59b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a4f75277541177d4eb737a2096662b01, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b60f5e430499c524e94cb8a66d74478e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d6e9ef0e6aa45534faf44f8f163c1cdc, type: 2}

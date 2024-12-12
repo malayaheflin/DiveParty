@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Anglefinsh
+  m_Controller: {fileID: 9100000, guid: ddb4ce570cb3f4043a450e08e87ee453, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 764868245c47ff043abebdc7dfc61adf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 046b70fe9e591fa40af4740439a16df3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 61a4bcd34d51a574b8551d2678cee836, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 618381433dc7ea540b1640df9f77ae49, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6a4e8211a8246434d868c2ef404f963c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c82c526d1174dbc429fbde1ce47bbf25, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c8d4cce322f1d404a8a2d8f992ec5077, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: abdf33815240d9d4293a5319391af160, type: 2}

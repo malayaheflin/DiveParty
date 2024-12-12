@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 114326b7dff9c6d4594a5c4f31bae5b7, type: 3}
+  m_Name: PrefabsData_SO
+  m_EditorClassIdentifier: 
+  prefabsDetailsList:
+  - name: Cube
+    obj: {fileID: 3996827247971013608, guid: e393473992230bc428c40776d4319e8f, type: 3}
+  - name: Bullet
+    obj: {fileID: 8727157834218359574, guid: bcf99948b58d23847acae3fccd9becbb, type: 3}
+  - name: explosion01
+    obj: {fileID: 3082530406429407634, guid: 194f8aeb3ee467b4c9065f9979939136, type: 3}
+  - name: explosion02
+    obj: {fileID: 7468295867633855332, guid: 84aad33a810cd05478fdaf78a21592eb, type: 3}
+  - name: explosion03
+    obj: {fileID: 3133051339369122194, guid: d9f52b9fcb3f991489a3bcc6ba6791ce, type: 3}
+  - name: explosion04
+    obj: {fileID: 5509534885769064587, guid: 87130f310e04817489ecbd554fd97e87, type: 3}
+  - name: explosion05
+    obj: {fileID: 5459011359800870586, guid: 8a4b47dd20897a54e85ab84043cc1798, type: 3}
+  - name: explosion06
+    obj: {fileID: 6796919489842863123, guid: 1980f373374e19245bd03d37a46b0af9, type: 3}
+  - name: explosion07
+    obj: {fileID: 9070721190109083223, guid: 76bb3ad9bd0135e47a8418df4b22beda, type: 3}
